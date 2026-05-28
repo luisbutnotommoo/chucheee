@@ -33,7 +33,7 @@
 
                 <button
                     onclick={() => goto("/register")}
-                    class="rounded-full border border-white/15 px-8 py-4 text-xs uppercase tracking-[0.25em] text-[#6B4259] transition hover:bg-[#F3C4DA]/10 hover:text-white"
+                    class="rounded-full border border-pink-200 px-8 py-4 text-xs uppercase tracking-[0.25em] text-[#150e06] transition hover:bg-[#F3C4DA]/10 hover:text-white"
                 >
                     Crear cuenta
                 </button>
